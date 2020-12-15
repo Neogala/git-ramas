@@ -1,5 +1,14 @@
 @import url("https://fonts.googleapis.com/css?family=Alegreya:900|Open+Sans|Slabo+27px&display=swap");
 
+
+.container {
+  background-color: #251505;
+}
+
+.container2 h2{
+  background-color: #c58443;
+}
+
 body {
   background-color: #fffbf7;
   font-family: "Open Sans", sans-serif;
